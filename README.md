@@ -1,4 +1,4 @@
-# Recruitment task
+# Coffe Shop
 The goal of this project was to create a basic application to sell goods and manage a coffe shop.
 
 # Technologies
